@@ -16,7 +16,7 @@ This project goes beyond a single ML model — it integrates **risk modelling, c
   - Credit limit adjustments
   - Early warning signals
 
-### 2️⃣ Customer Analytics (YES — RFM is included ✅)
+### 2️⃣ Customer Analytics
 - Builds **behavioural features** using:
   - **Recency** – How recently a customer transacted
   - **Frequency** – How often they transact
@@ -39,7 +39,7 @@ This project goes beyond a single ML model — it integrates **risk modelling, c
   - Regulators
   - Non-technical stakeholders
 
-### 4️⃣ AI Agents (Used Properly — Not Hype)
+### 4️⃣ AI Agents
 AI Agents **do not replace models**. They orchestrate decisions **around** them.
 
 Agents in this system:
