@@ -67,6 +67,8 @@ Agents in this system:
 
 ---
 ### 🏗️ Project Structure
+
+``` text
 ai-credit-risk-intelligence/
 ├── README.md
 ├── requirements.txt
